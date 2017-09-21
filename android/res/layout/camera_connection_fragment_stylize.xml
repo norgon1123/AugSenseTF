@@ -37,13 +37,13 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content" />
 
-  <org.tensorflow.demo.OverlayView
+  <augsense.org.demo.OverlayView
       android:id="@+id/overlay"
       android:layout_width="match_parent"
       android:layout_height="match_parent"
       android:layout_alignParentTop="true" />
 
-  <org.tensorflow.demo.OverlayView
+  <augsense.org.demo.OverlayView
     android:id="@+id/debug_overlay"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
